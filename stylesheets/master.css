@@ -1,6 +1,32 @@
 body{
 	background-color: green;
+	text-align: center;
+	font-family: "Helvetica";
+}
+h1 {
+	color: yellow;
 }
 img{
 	width: 400px;
+}
+ul{
+	list-style-type: none;
+}
+ul li{
+  display: inline;
+  padding-right: 4px;
+}
+input {
+	height: 22px;
+} 
+
+a {
+	text-decoration: 	none;
+}
+a:link {color: lightgreen;}      /* unvisited link */
+a:visited {color: lightgreen;}  /* visited link */
+a:hover {color: yellow;}  /* mouse over link */
+a:active {color: lightgreen;}  /* selected link */
+footer {
+	color: yellow;
 }
