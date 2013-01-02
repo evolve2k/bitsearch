@@ -16,17 +16,18 @@ ul li{
   display: inline;
   padding-right: 4px;
 }
-input {
+input{
 	height: 22px;
 } 
 
-a {
+a{
 	text-decoration: 	none;
 }
+
 a:link {color: lightgreen;}      /* unvisited link */
 a:visited {color: lightgreen;}  /* visited link */
 a:hover {color: yellow;}  /* mouse over link */
 a:active {color: lightgreen;}  /* selected link */
-footer {
-	color: yellow;
+footer{
+	color: darkgreen;
 }
